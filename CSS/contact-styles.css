@@ -1,0 +1,15 @@
+button{
+	margin:5px 0px;
+}
+.hiddendivs {
+	display:none;
+}
+
+#emaildiv input {
+	width:500px;
+}
+
+#emaildiv textarea {
+	width:500px;
+	height:100px;
+}
